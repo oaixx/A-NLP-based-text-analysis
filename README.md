@@ -1,7 +1,1 @@
-This project aims to perform natural language processing and topic modeling analysis on policy documents. 
-It utilizes various Python libraries, including pandas, nltk, sklearn, gensim, and matplotlib, to preprocess 
-the text data, extract features, and apply Non-negative Matrix Factorization (NMF) and Latent Dirichlet 
-Allocation (LDA) algorithms for topic modeling. The project also includes sentiment analysis by calculating 
-the proportion of negative and uncertainty terms to further analyze the content. Finally, we use a regression 
-model to evaluate the impact of topic changes on market volatility. This project demonstrates a complete workflow
-from text data preprocessing to advanced analysis and visualization.
+NLP has supported my previous research, enabling me to analyze policies, patents, technologies, and papers to uncover correlations and trends. In this project, I use a case study of analyzing policy documents with NLP and topic modeling to illustrate my understanding of NLP. The project aims to perform natural language processing (NLP) and topic modeling analysis on policy documents. It utilizes various Python libraries, including pandas, nltk, sklearn, gensim, and matplotlib, to preprocess text data, extract features, and apply Non-negative Matrix Factorization (NMF) and Latent Dirichlet Allocation (LDA) algorithms for topic modeling. The project also incorporates sentiment analysis by calculating the proportions of negative and uncertainty terms to further examine the content. Finally, a regression model is used to assess the impact of topic changes on market volatility. This project showcases a comprehensive workflow from text data preprocessing to advanced analysis and visualization.
